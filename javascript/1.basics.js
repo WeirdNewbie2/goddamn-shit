@@ -51,3 +51,5 @@ const eazyFunc = () => {
     console.log('\nArrow type function')
 }
 eazyFunc() // Arrow type for function representation
+
+// 'use strict' dont allow using unannounced variables in our code
