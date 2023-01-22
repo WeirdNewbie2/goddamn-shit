@@ -71,4 +71,4 @@ const ffFunc = (a,b = 2) => {
     c = a + b
     return c
 }
-console.log(ffFunc(5))
+console.log(ffFunc(5)) // 8

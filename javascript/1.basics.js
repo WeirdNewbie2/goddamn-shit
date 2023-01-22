@@ -52,4 +52,4 @@ const eazyFunc = () => {
 }
 eazyFunc() // Arrow type for function representation
 
-// 'use strict' dont allow using unannounced variables in our code
+// 'use strict' doesn`t allow using unannounced variables in our code
